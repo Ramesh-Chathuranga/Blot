@@ -95,3 +95,80 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+
+
+
+
+
+# Project Title
+
+This is Blot app for testin
+
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
+
+
+
+
+# Blot App
+
+Hybride mobile app develop for provided assignment 
+
+
+## Authors
+
+- [@Ramesh Chathuranga](https://github.com/Ramesh-Chathuranga)
+
+
+## Deployment
+
+To run the project you have to install node.js
+
+```bash
+  npm --v to check your node version
+  pod install for ios
+```
+
+
+## Installation
+
+get the code from this repository by cloning. Then install node module by using yarn or npm
+in ios pod install
+in ios have to install pod  
+
+```bash
+  before run android app need to navigate android folder and clean it by ./gradlew clean
+  then 
+
+  ls -la /Users/rameshchathuranga/Documents/App/FinanceDigest/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/
+```
+    to identify @react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/
+    availability if file not available install below line.
+
+    ./gradlew :app:assembleDebug
+
+    
+
+    
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Tech Stack
+
+**Client:** React-Native
+
+**Server:** Node, Express
+
+
+
